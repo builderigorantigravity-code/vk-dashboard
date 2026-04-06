@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "framework": "nextjs",
+  "regions": ["arn1"],
+  "env": {
+    "VK_GROUP_ID": "236370925"
+  }
+}
