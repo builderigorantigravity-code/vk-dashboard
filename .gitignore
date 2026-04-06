@@ -1,0 +1,30 @@
+# Библиотеки
+node_modules/
+dist/
+.next/
+out/
+
+# Системные папки и Ключи
+.openclaw/
+.antigravity/
+.gemini/
+*.txt
+seen_news.json
+news_queue.json
+
+# Переменные окружения (важно!)
+.env
+.env.local
+.env.production
+
+# Логи и временные файлы
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.vercel
+
+# Windows файлы
+Thumbs.db
+ehthumbs.db
+Desktop.ini
